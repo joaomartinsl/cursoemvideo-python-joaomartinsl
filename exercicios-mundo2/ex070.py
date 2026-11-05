@@ -1,5 +1,5 @@
 print('---' * 6)
-print('LOJA DO BRONHA')
+print('LOJA DO JONY')
 print('---' * 6)
 cont = mvalor = total = m1000 = 0
 mvitem = ' '
