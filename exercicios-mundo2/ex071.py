@@ -1,6 +1,6 @@
 from time import sleep
 print('=' * 30)
-print('{:^30}'.format('BANCO DO BRONHA'))
+print('{:^30}'.format('BANCO DO JONY'))
 print('=' * 30)
 saque = int(input('Digite o valor a ser sacado: '))
 print('PROCESSANDO...')
